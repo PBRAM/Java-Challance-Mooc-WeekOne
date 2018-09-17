@@ -1,0 +1,16 @@
+public class practice {
+
+
+    public static void main(String[] args) {
+          int chickens = 900;
+          double bacon = 0.1;
+          String tractor = "Zeptor";
+
+          System.out.println("Chickens: " + chickens);
+          System.out.println("Bacon (kb): " + bacon);
+          System.out.println("A tractor: " + tractor);
+          System.out.println("In a nut shell " + "\n" + chickens +"\n"+ bacon + "\n"+tractor);
+    }
+
+
+}
