@@ -1,0 +1,14 @@
+public class practice {
+
+
+    public static void main(String[] args) {
+
+      int eight = 8;
+      int two = 2;
+      int multiply = eight * two;
+      String print = eight + " * " + two + " = " + multiply;
+      System.out.println(print);
+    }
+
+
+}
