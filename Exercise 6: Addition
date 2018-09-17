@@ -1,0 +1,14 @@
+public class practice {
+
+
+    public static void main(String[] args) {
+
+        int five = 5;
+        int four = 4;
+        int sum = five + four;
+        String print = five + " + " + four + " = " + sum;
+        System.out.println(print);
+    }
+
+
+}
