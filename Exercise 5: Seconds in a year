@@ -1,0 +1,15 @@
+public class practice {
+
+
+    public static void main(String[] args) {
+      int daysInAYear = 365;
+      int hoursInADay = 24;
+      int minutesInAHour = 60;
+      int secondsInMin = 60;
+
+      int secondsInAYear = daysInAYear * hoursInADay * minutesInAHour *secondsInMin;
+      System.out.println("Seconds in a year:" + secondsInAYear);
+    }
+
+
+}
